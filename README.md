@@ -1,5 +1,5 @@
 # **FastAPI Keycloak Auth** ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)
-
+<br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"  alt="Fast API"/>
 <img src="https://img.shields.io/badge/Keycloak-103060?style=for-the-badge&logo=keycloak&logoColor=white"  alt="Keycloak"/>
 
