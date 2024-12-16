@@ -30,7 +30,7 @@ class KeycloakAuth:
                  client_secret_key: str = os.getenv('KEYCLOAK_CLIENT_SECRET', ''),
                  use_resource_access: bool = False):
         with self._init_lock:
-            if not hasattr(self, "initialized"):
+            if not hasattr(self, 'initialized'):
                 self.server_url = server_url
                 self.client_id = client_id
                 self.realm_name = realm_name
